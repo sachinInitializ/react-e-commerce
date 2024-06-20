@@ -63,6 +63,5 @@ Just raise an issue, we will discuss it.
 ## Feedback
 
 If you have any feedback, please reach out to me [here](https://ssahibsingh.github.io/#contact)
-updated
 
 
